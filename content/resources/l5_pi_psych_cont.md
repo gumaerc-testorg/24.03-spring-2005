@@ -4,8 +4,13 @@ description: 'This resource includes the following topics:
 
   Parfit is a reductionist, a shocking corollary, why does indeterminacy follow?,
   a mistaken view of ourselves, Williams rejects all this, and Parfit''s reply.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-03-relativism-reason-and-reality-spring-2005/ac105faba41bbe36d2be200e77e99594_l5_pi_psych_cont.pdf
+file: /media/courses/24-03-relativism-reason-and-reality-spring-2005/ac105faba41bbe36d2be200e77e99594_l5_pi_psych_cont.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l5_pi_psych_cont.pdf
 uid: ac105fab-a41b-be36-d2be-200e77e99594
