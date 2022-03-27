@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l20_no_shar_reas.pdf
 uid: c1b538e0-553c-0957-52fc-896b0c1f07dd

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l14_what_arguing.pdf
 uid: 19b61a33-9494-443c-911e-a81920c48ef0

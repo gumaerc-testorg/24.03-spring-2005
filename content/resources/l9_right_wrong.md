@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l9_right_wrong.pdf
 uid: 33477a4d-14d1-175d-ba5c-2538fc48f43b

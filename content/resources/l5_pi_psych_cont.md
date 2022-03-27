@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l5_pi_psych_cont.pdf
 uid: ac105fab-a41b-be36-d2be-200e77e99594

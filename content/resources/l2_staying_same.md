@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 resourcetype: Document
 title: l2_staying_same.pdf
 uid: 2ab61270-dcd0-700b-59dc-1a65137dfd2d

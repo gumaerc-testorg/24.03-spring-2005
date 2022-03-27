@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef8b100d-1c71-e85d-0cc3-d5df071ec479
 resourcetype: Document
 title: f02handout1.pdf
 uid: e445806f-5389-319e-f94b-f91f141f3e4f
