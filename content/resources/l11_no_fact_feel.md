@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   where are we?, new objection to moral knowledge, cognitivism, types of non-cognitivism,
   humean argument for emotivism, problem for non-cognitivism, how will emotivist explain
   validity?, keeping the spirit of emotivism, and assessing spirit-emotivism.'
-file: /media/courses/24-03-relativism-reason-and-reality-spring-2005/a1d6afce743bf891bea4cbc760ca1f2c_l11_no_fact_feel.pdf
+file: /courses/24-03-relativism-reason-and-reality-spring-2005/a1d6afce743bf891bea4cbc760ca1f2c_l11_no_fact_feel.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,6 @@ resourcetype: Document
 title: l11_no_fact_feel.pdf
 uid: a1d6afce-743b-f891-bea4-cbc760ca1f2c
 ---
+This resource includes the following topics:
+where are we?, new objection to moral knowledge, cognitivism, types of non-cognitivism, humean argument for emotivism, problem for non-cognitivism, how will emotivist explain validity?, keeping the spirit of emotivism, and assessing spirit-emotivism.
+

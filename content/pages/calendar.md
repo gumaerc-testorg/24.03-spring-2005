@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar contains the week wise distribution of the lectures topics.
+  It also contains the out and due dates for the papers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

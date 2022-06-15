@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the detailed information for the books required
+  to study for this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
