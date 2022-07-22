@@ -8,6 +8,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/74ffd1df2d3cc8fc7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 74ffd1df-2d3c-c8fc-705b-fd177b6dc4d9
 ---
 This resource includes the following topics:
 diversity vs. disagreement, diversity without disagreement, explanations of moral diversity, and structure of Harman's argument.
-

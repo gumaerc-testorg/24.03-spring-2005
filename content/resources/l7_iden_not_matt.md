@@ -10,6 +10,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/609a8bf4b7d17567b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 609a8bf4-b7d1-7567-bea9-24309afd5f49
 ---
 This resource includes the following topics:
 why it doesn't matter, what does matter?, teletransportation, not so fast, the branch-line case, the sleeping pill, is the analogy good?, murder while asleep, good analogy?, duplication by coincidence, teletransportation by coincidence, and trivial differences.
-

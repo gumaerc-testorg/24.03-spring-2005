@@ -8,6 +8,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/58455f5374c5a01e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 58455f53-74c5-a01e-4549-b690fa299850
 ---
 This resource includes the following topics:
 critical engagement, insider challenge, outsider challenge, disengage and tolerate, limits to toleration, two kinds of relativity, and is that enough?
-

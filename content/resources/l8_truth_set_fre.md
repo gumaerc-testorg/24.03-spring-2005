@@ -8,6 +8,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/7b74b0cf75ef12759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 7b74b0cf-75ef-1275-9bc0-1c0bf3d3ef4d
 ---
 This resource includes the following topics:
 buying into reductionism, effect on attitudes, but we are not so doctrinaire, rethinking "equal concern", and escaping the prison of the self.
-

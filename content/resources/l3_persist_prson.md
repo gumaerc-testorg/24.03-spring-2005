@@ -8,6 +8,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/8b9b94a86fb4953d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 8b9b94a8-6fb4-953d-591b-1f17c6f4dfb3
 ---
 This resource includes the following topics:
 reductionism, Locke's picture, Locke's theory, transitivity objection, neo-lockean thinking.
-

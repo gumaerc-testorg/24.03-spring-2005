@@ -11,6 +11,7 @@ file: /courses/24-03-relativism-reason-and-reality-spring-2005/5d9375063611d94ea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 5d937506-3611-d94e-ab64-a95d256630b1
 ---
 This resource includes the following topics:
 physics vs. metaphysics, how to distinguish?, primary vs. secondary qualities, Galileo's design argument for secondary qualities, Galileo's relativity argument for secondary qualities, Locke's updating of Galileo, Berkeley's question, Berkeleyan argument for idealism, further powerful Berkeleyan arguments, Kant and the copernican revolution, and Kant and Kuhn.
-
