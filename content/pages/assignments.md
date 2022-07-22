@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the 4 writing assignments and 2 debates.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ef8b100d-1c71-e85d-0cc3-d5df071ec479
 ---
@@ -55,7 +59,7 @@ Please write a five or six page paper on one of the following topics.
 2.  What is cognitivism about morality? What are some examples of non-cognitivist views about morality? Explain the Humean argument for non-cognitivism in your own words. Does the Humean argument succeed? How do Chilly and Very Chilly fit in (pp. 117-120)? Must the cognitivist maintain that people like that are really possible? Are they in your view really possible?
 3.  Let the following be the **Relativity Thesis**: _Sentences of the form: 'it would be morally wrong of P to D' have no truth value considered independently of any context of utterance._ For example, suppose Adam is deciding whether or not to be cloned. Then, in one context of utterance, 'it would be morally wrong of Adam to be cloned' is true, while in another context that sentence is false. (Compare 'P is tall', 'P is moving', etc.) Harman thinks that the **Relativity Thesis** is a "reasonable inference" from the "most plausible explanation of moral diversity". Which explanation does Harman think is most plausible? Is he right? Is the **Relativity Thesis** a reasonable inference from Harman's favored explanation of moral diversity?
 
-_Remember:_ give reasons for your answers. It might be worth looking over "Reading Philosophy" and the handout on arguments ([PDF]({{< baseurl >}}/resources/f02handout1)) before you begin writing. No late papers will be accepted unless you have a very good excuse, such as illness. No footnotes, **no quotations** (although you may use bits of terminology from the readings or the handouts, as appropriate). See the assignments section of the [syllabus]({{< baseurl >}}/pages/syllabus) for further guidance.
+_Remember:_ give reasons for your answers. It might be worth looking over "Reading Philosophy" and the handout on arguments ({{% resource_link e445806f-5389-319e-f94b-f91f141f3e4f "PDF" %}}) before you begin writing. No late papers will be accepted unless you have a very good excuse, such as illness. No footnotes, **no quotations** (although you may use bits of terminology from the readings or the handouts, as appropriate). See the assignments section of the {{% resource_link f4f83677-eabb-5c0b-f2b4-370cd5b8265d "syllabus" %}} for further guidance.
 
 ### Paper 4
 

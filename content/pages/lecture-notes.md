@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the lecture topics and the notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9614c4d6-7443-885a-a4d6-410e9ba80299
 ---
@@ -28,7 +32,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Thinking Like a Philosopher ([PDF]({{< baseurl >}}/resources/l1_think_phlospr))
+Thinking Like a Philosopher ({{% resource_link 7639c765-2640-ec80-e562-143221612bf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +47,7 @@ Thinking Like a Philosopher ([PDF]({{< baseurl >}}/resources/l1_think_phlospr))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Staying One and the Same Thing Over Time ([PDF]({{< baseurl >}}/resources/l2_staying_same))
+Staying One and the Same Thing Over Time ({{% resource_link 2ab61270-dcd0-700b-59dc-1a65137dfd2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ Staying One and the Same Thing Over Time ([PDF]({{< baseurl >}}/resources/l2_sta
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Persistence for Persons ([PDF]({{< baseurl >}}/resources/l3_persist_prson))
+Persistence for Persons ({{% resource_link 8b9b94a8-6fb4-953d-591b-1f17c6f4dfb3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Persistence for Persons ([PDF]({{< baseurl >}}/resources/l3_persist_prson))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Remembering who you are ([PDF]({{< baseurl >}}/resources/l4_remember_you))
+Remembering who you are ({{% resource_link 1354ce0e-d81f-3c56-bc54-1c802b99113d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Remembering who you are ([PDF]({{< baseurl >}}/resources/l4_remember_you))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Personal Identity as Psychological Continuity ([PDF]({{< baseurl >}}/resources/l5_pi_psych_cont))
+Personal Identity as Psychological Continuity ({{% resource_link ac105fab-a41b-be36-d2be-200e77e99594 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +95,7 @@ Personal Identity as Psychological Continuity ([PDF]({{< baseurl >}}/resources/l
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The Importance of Being Identical (?) ([PDF]({{< baseurl >}}/resources/l6_impor_identic))
+The Importance of Being Identical (?) ({{% resource_link fb48d746-7ccd-dec7-a503-3da507f8a795 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +104,7 @@ The Importance of Being Identical (?) ([PDF]({{< baseurl >}}/resources/l6_impor_
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Identity is Not what Matters ([PDF]({{< baseurl >}}/resources/l7_iden_not_matt))
+Identity is Not what Matters ({{% resource_link 609a8bf4-b7d1-7567-bea9-24309afd5f49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +119,7 @@ Identity is Not what Matters ([PDF]({{< baseurl >}}/resources/l7_iden_not_matt))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The Truth will Set You Free ([PDF]({{< baseurl >}}/resources/l8_truth_set_fre))
+The Truth will Set You Free ({{% resource_link 7b74b0cf-75ef-1275-9bc0-1c0bf3d3ef4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ First Debate
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Knowing Right from Wrong ([PDF]({{< baseurl >}}/resources/l9_right_wrong))
+Knowing Right from Wrong ({{% resource_link 33477a4d-14d1-175d-ba5c-2538fc48f43b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Knowing Right from Wrong ([PDF]({{< baseurl >}}/resources/l9_right_wrong))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-What's your Evidence? ([PDF]({{< baseurl >}}/resources/l10_what_evidnce))
+What's your Evidence? ({{% resource_link 174762f5-509d-c75d-60a6-70971d105332 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +167,7 @@ What's your Evidence? ([PDF]({{< baseurl >}}/resources/l10_what_evidnce))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Not a Fact but a Feeling ([PDF]({{< baseurl >}}/resources/l11_no_fact_feel))
+Not a Fact but a Feeling ({{% resource_link a1d6afce-743b-f891-bea4-cbc760ca1f2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +176,7 @@ Not a Fact but a Feeling ([PDF]({{< baseurl >}}/resources/l11_no_fact_feel))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-True for you, Maybe ([PDF]({{< baseurl >}}/resources/l12_true_4_u_may))
+True for you, Maybe ({{% resource_link 9b943259-839f-9853-e898-43872bdb92f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +191,7 @@ True for you, Maybe ([PDF]({{< baseurl >}}/resources/l12_true_4_u_may))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Lessons from Einstein on Ethics ([PDF]({{< baseurl >}}/resources/l13_les_einstein))
+Lessons from Einstein on Ethics ({{% resource_link 74ffd1df-2d3c-c8fc-705b-fd177b6dc4d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +200,7 @@ Lessons from Einstein on Ethics ([PDF]({{< baseurl >}}/resources/l13_les_einstei
 15
 {{< tdclose >}}
 {{< tdopen >}}
-What are we Arguing about? ([PDF]({{< baseurl >}}/resources/l14_what_arguing))
+What are we Arguing about? ({{% resource_link 19b61a33-9494-443c-911e-a81920c48ef0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ What are we Arguing about? ([PDF]({{< baseurl >}}/resources/l14_what_arguing))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Insiders, Outsiders ([PDF]({{< baseurl >}}/resources/l15_insid_outsid))
+Insiders, Outsiders ({{% resource_link 58455f53-74c5-a01e-4549-b690fa299850 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +239,7 @@ Second Debate
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Galileo, Descartes, Berkeley, Locke, Kant ([PDF]({{< baseurl >}}/resources/l16_galileoetc05))
+Galileo, Descartes, Berkeley, Locke, Kant ({{% resource_link 5d937506-3611-d94e-ab64-a95d256630b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +248,7 @@ Galileo, Descartes, Berkeley, Locke, Kant ([PDF]({{< baseurl >}}/resources/l16_g
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Hume, Popper, Putnam ([PDF]({{< baseurl >}}/resources/l17_hu_pop_put05))
+Hume, Popper, Putnam ({{% resource_link 149dd991-c33c-39fb-e24a-1d4b12d402f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +263,7 @@ Hume, Popper, Putnam ([PDF]({{< baseurl >}}/resources/l17_hu_pop_put05))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Kuhn as Kant all Over Again ([PDF]({{< baseurl >}}/resources/l18_kuhn))
+Kuhn as Kant all Over Again ({{% resource_link 5e86a662-6008-b83a-1ab1-f3cdc3faee0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +278,7 @@ Kuhn as Kant all Over Again ([PDF]({{< baseurl >}}/resources/l18_kuhn))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Four Kinds of Incommensurability ([PDF]({{< baseurl >}}/resources/l19_4kind_inco05))
+Four Kinds of Incommensurability ({{% resource_link 855553e6-2752-dc81-843a-655400a58ea6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +287,7 @@ Four Kinds of Incommensurability ([PDF]({{< baseurl >}}/resources/l19_4kind_inc
 22
 {{< tdclose >}}
 {{< tdopen >}}
-No Shared Reasons ([PDF]({{< baseurl >}}/resources/l20_no_shar_reas))
+No Shared Reasons ({{% resource_link c1b538e0-553c-0957-52fc-896b0c1f07dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

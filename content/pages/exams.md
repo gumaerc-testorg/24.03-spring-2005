@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains the questions to be studied for exams and the schedule
+  for exam and the type of exam and the rules for it.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 6a0e7d21-0176-3a16-c0c5-92cbc5769b55
 ---
