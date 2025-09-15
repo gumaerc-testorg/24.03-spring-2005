@@ -4,7 +4,8 @@ description: 'This resource includes the following topics:
 
   Paradigm shift, four aspects of incommensurability (no shared reasons, meanings,
   experience, and world), and Kuhn on progress.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/855553e62752dc81843a655400a58ea6_l19_4kind_inco05.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/855553e62752dc81843a655400a58ea6_l19_4kind_inco05.pdf
+file_size: 51916
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

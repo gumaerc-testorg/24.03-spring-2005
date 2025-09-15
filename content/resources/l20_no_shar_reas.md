@@ -4,7 +4,8 @@ description: 'This resource includes the following topics:
 
   Kuhn thinks critics are overreacting, reasons for belief, deflationary interpretation,
   no good justifying reasons, weak underdetermination, and strong underdetermination.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/c1b538e0553c095752fc896b0c1f07dd_l20_no_shar_reas.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/c1b538e0553c095752fc896b0c1f07dd_l20_no_shar_reas.pdf
+file_size: 66625
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

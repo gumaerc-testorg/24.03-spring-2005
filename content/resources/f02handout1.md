@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Handout on the formation of arguments.
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/e445806f5389319ef94bf91f141f3e4f_f02handout1.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/e445806f5389319ef94bf91f141f3e4f_f02handout1.pdf
+file_size: 78187
 file_type: application/pdf
 learning_resource_types:
 - Assignments

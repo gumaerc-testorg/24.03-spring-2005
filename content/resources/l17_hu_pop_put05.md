@@ -5,7 +5,8 @@ description: 'This resource includes the following topics:
   deductive validity and inductive strength, are there inductively strong arguments?,
   Hume''s skepticism, Popper''s falsificationism, startling claim, corroboration isn''t
   confirmation, and Putnam''s criticism.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/149dd991c33c39fbe24a1d4b12d402f2_l17_hu_pop_put05.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/149dd991c33c39fbe24a1d4b12d402f2_l17_hu_pop_put05.pdf
+file_size: 67568
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

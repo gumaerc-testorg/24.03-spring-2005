@@ -4,7 +4,8 @@ description: 'This resource includes the following topics:
 
   two kinds of moral claim, Harman and Thomson, moral objectivity, traditional skeptical
   argument, skeptical toolkit, where does this leave us?, and responses.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/33477a4d14d1175dba5c2538fc48f43b_l9_right_wrong.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/33477a4d14d1175dba5c2538fc48f43b_l9_right_wrong.pdf
+file_size: 59589
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

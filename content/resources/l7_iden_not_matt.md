@@ -6,7 +6,8 @@ description: 'This resource includes the following topics:
   branch-line case, the sleeping pill, is the analogy good?, murder while asleep,
   good analogy?, duplication by coincidence, teletransportation by coincidence, and
   trivial differences.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/609a8bf4b7d17567bea924309afd5f49_l7_iden_not_matt.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/609a8bf4b7d17567bea924309afd5f49_l7_iden_not_matt.pdf
+file_size: 62475
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

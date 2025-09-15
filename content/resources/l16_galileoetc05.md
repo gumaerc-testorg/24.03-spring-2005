@@ -7,7 +7,8 @@ description: 'This resource includes the following topics:
   qualities, Locke''s updating of Galileo, Berkeley''s question, Berkeleyan argument
   for idealism, further powerful Berkeleyan arguments, Kant and the copernican revolution,
   and Kant and Kuhn.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/5d9375063611d94eab64a95d256630b1_l16_galileoetc05.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/5d9375063611d94eab64a95d256630b1_l16_galileoetc05.pdf
+file_size: 89260
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

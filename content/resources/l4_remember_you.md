@@ -5,7 +5,8 @@ description: 'This resource includes the following topics:
   Lockean theories, can remember, non-experiential remembering, taking the ancestral,
   new forms of psychological glue, neo-lockean theory, branching, moral of branching,
   and Parfit''s shorthand.'
-file: /courses/24-03-relativism-reason-and-reality-spring-2005/1354ce0ed81f3c56bc541c802b99113d_l4_remember_you.pdf
+file: /ol-ocw-studio-app/courses/24-03-relativism-reason-and-reality-spring-2005/1354ce0ed81f3c56bc541c802b99113d_l4_remember_you.pdf
+file_size: 81925
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
