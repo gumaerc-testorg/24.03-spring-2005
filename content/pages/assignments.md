@@ -27,7 +27,7 @@ Explain Weirob's argument(s) that Miller cannot know that the "same body, same s
 
 Weirob claims that immaterial souls, if they existed, would be totally irrelevant to questions of personal identity and survival. Is she right? Why or why not? Do her arguments, if successful, show that brains too are irrelevant to questions of personal identity? (two pages).
 
-_Remember:_ Give reasons for your answers. Don't even think about starting until you have read Jim Pryor's "[Guidelines on writing a philosophy paper](http://www.jimpryor.net/teaching/guidelines/writing.html)" and Richard Holton's "[How to Build an Argument and Write an Essay](http://web.mit.edu/holton/www/edin/write/writehome.html)".
+_Remember:_ Give reasons for your answers. Don't even think about starting until you have read Jim Pryor's "{{% resource_link "bc60c627-7c79-497e-9f9b-a77c6fa33572" "Guidelines on writing a philosophy paper" %}}" and Richard Holton's "{{% resource_link "4352e576-b9da-4769-acc5-d4a93763a351" "How to Build an Argument and Write an Essay" %}}".
 
 Five double-spaced regular-sized font numbered pages. No footnotes, **no quotations** (you may use bits of terminology from the readings or the handouts, as appropriate). No late papers will be accepted unless you have a very good excuse, such as illness.
 

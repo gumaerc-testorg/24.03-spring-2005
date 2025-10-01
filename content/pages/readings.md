@@ -24,11 +24,11 @@ Kuhn, Thomas. _The Structure of Scientific Revolutions_. 3rd ed. Chicago, IL: Un
 
 Some supplementary readings will be distributed in class and/or posted to the course site:
 
-Pryor, James. "[Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html)."
+Pryor, James. "{{% resource_link "bc60c627-7c79-497e-9f9b-a77c6fa33572" "Guidelines on Writing a Philosophy Paper" %}}."
 
-———. "[Philosophical Terms and Methods](http://www.princeton.edu/main/)."
+———. "{{% resource_link "617f7b1f-2ca0-47ba-bccb-a91300d13e2d" "Philosophical Terms and Methods" %}}."
 
-Holton, Richard. "[How to Build an Argument, and How to Write an Essay](http://web.mit.edu/holton/www/edin/write/writehome.html)."
+Holton, Richard. "{{% resource_link "4352e576-b9da-4769-acc5-d4a93763a351" "How to Build an Argument, and How to Write an Essay" %}}."
 
 Blackburn, Simon."The World." In _Think: A Compelling Introduction to Philosophy_. Oxford, New York, NY: Oxford University Press, 1999, pp. 233- 264. ISBN: 0192100246.
 
